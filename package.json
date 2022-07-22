@@ -1,0 +1,29 @@
+{
+  "name": "nodejstut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lavanya",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.13",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "connect-flash": "^0.1.1",
+    "express": "^4.18.1",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.3",
+    "express-validator": "^3.2.0",
+    "mongoose": "^6.4.4",
+    "nodemon": "^1.4.1",
+    "passport": "^0.6.0",
+    "passport-local": "^1.0.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
